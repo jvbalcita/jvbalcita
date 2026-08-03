@@ -133,7 +133,15 @@ graph below this README.
 ### Coding time
 
 <!--START_SECTION:waka-->
-WakaTime is collecting the first coding activity update.
+
+```txt
+From: 27 July 2026 - To: 03 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Current focus
