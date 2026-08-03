@@ -1,4 +1,15 @@
-# Hi, I'm Jack Vincent Balcita
+<h1 align="center">
+  Hi, I'm Jack Vincent Balcita
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="34" alt="Sunglasses blob waving">
+</h1>
+
+<p align="center">
+  <a href="https://github.com/jvbalcita">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=620&lines=Enterprise+application+engineer;Laravel+%2B+Vue+%2B+Inertia;Automation+with+Python;Desktop+software+with+Rust+%2B+Tauri" alt="Typing introduction">
+  </a>
+</p>
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Developer typing at a computer">
 
 I build reliable enterprise, web, and desktop software for real operational work.
 
@@ -9,7 +20,9 @@ My core stack is **Laravel, Vue 3, Inertia.js, and Tailwind CSS**, with **Python
 [![Medium](https://img.shields.io/badge/Medium-@jack.balcita-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jack.balcita)
 [![X](https://img.shields.io/badge/X-@artisanjackk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/artisanjackk)
 
-## What I work on
+<p><em>Building dependable software for teams that value clarity, reliability, and momentum.</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer at work"></p>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38" alt="Spark animation"> What I work on
 
 - Enterprise applications that turn complex workflows into clear, dependable tools
 - Business systems for operations, finance, reporting, catalogues, payments, and scheduling
@@ -103,6 +116,20 @@ counts without exposing repository names or commit details. My public commits
 and anonymized private contributions are reflected in GitHub's native activity
 graph below this README.
 
+### GitHub overview
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jvbalcita?cardType=github&theme=github-dark&preferLogin=false" alt="Jack's Awesome GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvbalcita&theme=transparent&hide_border=true" alt="Jack's GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvbalcita&theme=github-compact&hide_border=true&area=true" alt="Jack's GitHub contribution activity graph">
+</p>
+
 ## Current focus
 
 - Building polished Laravel applications for operational and enterprise teams
@@ -115,4 +142,13 @@ graph below this README.
 - [GitHub](https://github.com/jvbalcita) · [LinkedIn](https://linkedin.com/in/jvbalcita) · [Dev.to](https://dev.to/jvbalcita) · [Medium](https://medium.com/@jack.balcita) · [X](https://x.com/artisanjackk)
 - Open an issue in the relevant GitHub repository for project-specific questions
 
-<sub>Based in the Philippines · Building software for teams that value clarity, reliability, and momentum.</sub>
+<p>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52" alt="Connecting with people">
+  <em><strong>I enjoy connecting with people who care about useful software.</strong> If you'd like to say hello, reach out through any of the links above.</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="52" alt="Animated coding character">
+  <br>
+  <sub>Based in the Philippines · Building software for teams that value clarity, reliability, and momentum.</sub>
+</p>
