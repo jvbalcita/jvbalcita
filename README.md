@@ -133,15 +133,64 @@ graph below this README.
 ### Coding time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-```txt
-From: 27 July 2026 - To: 03 August 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-Total Time: 0 secs
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.36%20million%20lines%20of%20code-blue?style=flat)
 
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 4.6 MB Used in GitHub's Storage 
+ > 
+> 🏆 914 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 50 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">857 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="6" width="41" height="8" rx="4" fill="#58a6ff"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">11.39%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2305 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="30" width="110" height="8" rx="4" fill="#58a6ff"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">30.62%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">2559 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="54" width="122" height="8" rx="4" fill="#58a6ff"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">34.00%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1806 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="78" width="86" height="8" rx="4" fill="#58a6ff"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">23.99%</text></svg>
+📅 **I'm Most Productive on Thursday** 
+
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1125 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="6" width="54" height="8" rx="4" fill="#58a6ff"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">14.95%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1201 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="30" width="57" height="8" rx="4" fill="#58a6ff"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">15.96%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1434 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="54" width="69" height="8" rx="4" fill="#58a6ff"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">19.05%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1648 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="78" width="79" height="8" rx="4" fill="#58a6ff"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">21.89%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1550 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="102" width="74" height="8" rx="4" fill="#58a6ff"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">20.59%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">392 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="126" width="19" height="8" rx="4" fill="#58a6ff"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">5.21%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">177 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="150" width="8" height="8" rx="4" fill="#58a6ff"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">2.35%</text></svg>
+
+
+📊 **This Week I Spent My Time On** 
+
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
+**I Mostly Code in Vue** 
+
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Vue</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">14 repos</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="6" width="93" height="8" rx="4" fill="#58a6ff"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">25.93%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">8 repos</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="30" width="53" height="8" rx="4" fill="#58a6ff"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">14.81%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">PHP</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">7 repos</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="54" width="47" height="8" rx="4" fill="#58a6ff"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">12.96%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">C++</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="78" width="7" height="8" rx="4" fill="#58a6ff"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">1.85%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">MDX</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#21262d"/><rect x="280" y="102" width="7" height="8" rx="4" fill="#58a6ff"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">1.85%</text></svg>
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jvbalcita/jvbalcita/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/08/2026 23:38:36 UTC
 <!--END_SECTION:waka-->
 
 ## Current focus
