@@ -4,6 +4,11 @@ I build reliable enterprise, web, and desktop software for real operational work
 
 My core stack is **Laravel, Vue 3, Inertia.js, and Tailwind CSS**, with **Python** for automation and data workflows, and **Rust + Tauri** for lightweight cross-platform applications. I care about clear domain models, maintainable architecture, thoughtful interfaces, and systems that remain dependable as the business grows.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jvbalcita-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvbalcita)
+[![Dev.to](https://img.shields.io/badge/Dev.to-jvbalcita-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/jvbalcita)
+[![Medium](https://img.shields.io/badge/Medium-@jack.balcita-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jack.balcita)
+[![X](https://img.shields.io/badge/X-@artisanjackk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/artisanjackk)
+
 ## What I work on
 
 - Enterprise applications that turn complex workflows into clear, dependable tools
@@ -45,13 +50,23 @@ A Laravel package that provides Philippine address lookup data and APIs, includi
 ![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=1C78C0)
 
 **Systems and automation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 **Data and delivery**
@@ -59,9 +74,22 @@ A Laravel package that provides Philippine address lookup data and APIs, includi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud, infrastructure, and tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 I also work with background jobs, queues, automated testing, static analysis,
 continuous integration, deployment workflows, and third-party integrations.
@@ -84,7 +112,7 @@ graph below this README.
 
 ## Connect
 
-- Explore my work here on [GitHub](https://github.com/jvbalcita)
-- Open an issue in the relevant repository for project-specific questions
+- [GitHub](https://github.com/jvbalcita) · [LinkedIn](https://linkedin.com/in/jvbalcita) · [Dev.to](https://dev.to/jvbalcita) · [Medium](https://medium.com/@jack.balcita) · [X](https://x.com/artisanjackk)
+- Open an issue in the relevant GitHub repository for project-specific questions
 
 <sub>Based in the Philippines · Building software for teams that value clarity, reliability, and momentum.</sub>
