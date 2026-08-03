@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate development metrics
-        uses: anmol098/waka-readme-stats@e88db93786734b5004384e35da7f0b442fdc01e0
+        uses: anmol098/waka-readme-stats@e88db93786730a2ada98faaea4bfcfec7d29737f
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
