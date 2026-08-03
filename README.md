@@ -130,6 +130,12 @@ graph below this README.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvbalcita&theme=github-compact&hide_border=true&area=true" alt="Jack's GitHub contribution activity graph">
 </p>
 
+### Coding time
+
+<!--START_SECTION:waka-->
+WakaTime is collecting the first coding activity update.
+<!--END_SECTION:waka-->
+
 ## Current focus
 
 - Building polished Laravel applications for operational and enterprise teams
