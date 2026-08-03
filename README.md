@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi, I'm Jack Vincent Balcita
+  Hi, I'm Jack
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="34" alt="Sunglasses blob waving">
 </h1>
 
 <p align="center">
   <a href="https://github.com/jvbalcita">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=620&lines=Enterprise+application+engineer;Laravel+%2B+Vue+%2B+Inertia;Automation+with+Python;Desktop+software+with+Rust+%2B+Tauri" alt="Typing introduction">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=620&lines=Software+Engineer;Fullstack+Web+Developer;Fullstack+Software+Engineer;Laravel+%2B+Vue+%2B+Inertia" alt="Software Engineer, Fullstack Web Developer, and Fullstack Software Engineer">
   </a>
 </p>
 
