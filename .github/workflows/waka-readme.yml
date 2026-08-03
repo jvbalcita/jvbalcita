@@ -1,4 +1,4 @@
-name: Update WakaTime stats
+name: Update development metrics
 
 on:
   workflow_dispatch:
@@ -9,23 +9,39 @@ permissions:
   contents: write
 
 concurrency:
-  group: waka-readme
+  group: development-metrics
   cancel-in-progress: true
 
 jobs:
   update-readme:
-    name: Update coding activity
+    name: Update lifetime development stats
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     steps:
-      - name: Generate WakaTime section
-        uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
+      - name: Generate development metrics
+        uses: anmol098/waka-readme-stats@e88db93786730a2ada98faaea4bfcfec7d29737f
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 8
-          COMMIT_MESSAGE: 'docs: update WakaTime coding stats'
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: 'True'
+          SHOW_TOTAL_CODE_TIME: 'True'
+          SHOW_AI_CODE_TIME: 'True'
+          SHOW_PROFILE_VIEWS: 'True'
+          SHOW_COMMIT: 'True'
+          SHOW_DAYS_OF_WEEK: 'True'
+          SHOW_LANGUAGE: 'True'
+          SHOW_OS: 'True'
+          SHOW_PROJECTS: 'False'
+          SHOW_TIMEZONE: 'True'
+          SHOW_EDITORS: 'True'
+          SHOW_LANGUAGE_PER_REPO: 'True'
+          SHOW_SHORT_INFO: 'True'
+          SHOW_LOC_CHART: 'True'
+          SHOW_AI_CODING: 'True'
+          SHOW_UPDATED_DATE: 'True'
+          BAR_STYLE: 'svg'
+          BAR_COLOR: '#58a6ff'
+          BAR_TRACK_COLOR: '#21262d'
+          BAR_RADIUS: '4'
+          COMMIT_MESSAGE: 'docs: update lifetime development metrics'
