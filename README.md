@@ -32,6 +32,20 @@ My core stack is **Laravel, Vue 3, Inertia.js, and Tailwind CSS**, with **Python
 
 ## Selected work
 
+### [Artisan Jack — Portfolio](https://artisan-jack.laravel.cloud)
+
+My developer portfolio, presenting the applications, engineering work, and
+digital experiences I build across web, automation, and software products.
+
+`Laravel` · `Inertia.js` · `Vue 3` · `TypeScript` · `Tailwind CSS` · `Laravel Cloud` · `Private source`
+
+### [Artisan BizOps](https://artisanbizops.com)
+
+A private-source business operations platform built to turn day-to-day
+operational workflows into a clear, dependable application.
+
+`Laravel` · `Inertia.js` · `Vue 3` · `Tailwind CSS` · `Business operations` · `Private source`
+
 ### [Shipped](https://github.com/jvbalcita/shipped)
 
 A public registry for independent Laravel launches. Creators can document a release, verify its Laravel Cloud deployment, and publish a discoverable project page.
