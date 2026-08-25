@@ -149,13 +149,13 @@ graph below this README.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,061 Contributions in the Year 2026
+> 🏆 1,068 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,32 +166,32 @@ graph below this README.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                2305 commits        ████████░░░░░░░░░░░░░░░░░   31.61 % 
-🌃 Evening                2488 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
-🌙 Night                  1685 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌞 Morning                830 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                2307 commits        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                2489 commits        ████████░░░░░░░░░░░░░░░░░   33.99 % 
+🌙 Night                  1696 commits        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Tuesday                  1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                1384 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Thursday                 1602 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Friday                   1487 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Saturday                 350 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Sunday                   185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Monday                   1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  1200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Wednesday                1384 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Thursday                 1602 commits        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Friday                   1487 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Saturday                 350 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Sunday                   185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
 **I Mostly Code in Vue** 
 
 ```text
-Vue                      14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+PHP                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -201,7 +201,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jvbalcita/jvbalcita/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 00:08:54 UTC
+ Last Updated on 25/08/2026 00:10:56 UTC
 <!--END_SECTION:waka-->
 
 ## Current focus
